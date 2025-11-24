@@ -1,4 +1,6 @@
-af8cd54 (HEAD -> main, origin/main, origin/HEAD) Task 2.3
+a315302 (HEAD -> main, origin/main, origin/HEAD) Task 2.4
+8dfd258 Task 2.4
+af8cd54 Task 2.3
 2a95014 Task 2.2
 178b86c Task 2.1
 1f9a3c3 Task 2.1
