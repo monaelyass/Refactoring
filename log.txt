@@ -1,4 +1,5 @@
-178b86c (HEAD -> main, origin/main, origin/HEAD) Task 2.1
+2a95014 (HEAD -> main, origin/main, origin/HEAD) Task 2.2
+178b86c Task 2.1
 1f9a3c3 Task 2.1
 d8ac2d0 Task 1.2
 9259272 Task 1.1
