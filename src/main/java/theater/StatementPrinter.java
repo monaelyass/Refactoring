@@ -115,5 +115,3 @@ public class StatementPrinter {
         this.plays = plays;
     }
 }
-
-
